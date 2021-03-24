@@ -38,3 +38,4 @@ public class TestSuite extends BrowserSelector
     }
 
 }
+//
